@@ -241,13 +241,13 @@
         <div class="contact-info">
           <span>📞 +92 345 2137572</span>
           <span>✉️ <a href="mailto:hamzaaliraza17@gmail.com">hamzaaliraza17@gmail.com</a></span>
-          <span>🔗 <a href="https://github.com/hamzaaliraza17-hue" target="_blank">GitHub</a></span>
+          <span>🔗 <a href="https://github.com/monopolymummat-cmyk" target="_blank">GitHub</a></span>
           <span>📜 <a href="https://www.skills.google/public_profiles/ad9208a8-4c71-40f3-a53b-647024003cde" target="_blank">Google Skills</a></span>
           <span>🧠 <a href="https://anthropic.skilljar.com/accounts/profile/?next=/" target="_blank">Anthropic Academy</a></span>
         </div>
       </div>
       <div class="qr-container">
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/hamzaaliraza17-hue" alt="GitHub QR Code">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/monopolymummat-cmyk" alt="GitHub QR Code">
         <div class="qr-label">GitHub Portfolio</div>
       </div>
     </header>
@@ -294,7 +294,7 @@
       <div class="project-item">
         <div class="project-header">
           <span class="project-title">LLM API Integration Pipeline</span>
-          <a href="https://github.com/hamzaaliraza17-hue" class="project-link" target="_blank">Code: GitHub Repository</a>
+          <a href="https://github.com/monopolymummat-cmyk" class="project-link" target="_blank">Code: GitHub Repository</a>
         </div>
         <div class="project-desc">
           Engineered a low-latency Python pipeline using Groq API (Llama-3) with context-aware system prompts and modular error handling.
